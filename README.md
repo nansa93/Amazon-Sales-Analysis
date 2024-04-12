@@ -26,3 +26,23 @@ To address missing values, duplication, and inconsistencies in the dataset, the 
 A variety of statistical summaries and visualisations are produced in order to examine the dataset and obtain preliminary understanding.
 
 Determining the best-selling items, the revenue contribution of each product category, and product performance indicators.
+
+# Findings
+
+ M-Size Products are Selling more.
+
+The majority of quantity purchases m-size in sales.
+
+Most orders are dispatched by courier.
+
+Most people purchase t-shirts.
+
+99.2% of purchasers are retailers and 0.8% are(business-to-business(B2B)) buyers.
+
+The majority of purchasers are from the state of Maharashtra.
+
+# Conclusion
+
+Data Analysis shows that the Company services a large number of merchants in the state of maharashtra, 
+primarily through Amazon,has a high demand for t_shirts, and that m-size is the most popular option among Customers.
+
